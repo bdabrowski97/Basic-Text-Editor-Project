@@ -1,0 +1,25 @@
+-----3 LOOPS-----	(BigO: Aprox. N*3 == N)
+10% — Miliseconds 32 
+20% — Miliseconds 54 
+30% — Miliseconds 66 
+40% — Miliseconds 117 
+50% — Miliseconds 106 
+60% — Miliseconds 128 
+70% — Miliseconds 152 
+80% — Miliseconds 182 
+90% — Miliseconds 190 
+100% — Miliseconds 220 
+-----1 LOOP-----	(BigO: Aprox. N)
+10% — Miliseconds 49 
+20% — Miliseconds 36 
+30% — Miliseconds 20 
+40% — Miliseconds 25 
+50% — Miliseconds 32 
+60% — Miliseconds 38 
+70% — Miliseconds 45 
+80% — Miliseconds 56 
+90% — Miliseconds 57 
+100% — Miliseconds 66 
+
+
+ THEY BOTH ARE BigO N
